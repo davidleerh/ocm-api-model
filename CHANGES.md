@@ -2,6 +2,9 @@
 
 This document describes the relevant changes between releases of the API model.
 
+## 0.0.463 Aug 05 2026
+- ROSAENG-61162 | feat: API changes for BYO firewall workflow for OSD-GCP
+
 ## 0.0.462 Jul 21 2026
 - ROSAENG-61032 | task: ocm-api/sdk changes to support SpotMarketOptions for ROSA HCP
 - ROSAENG-61032 | task: ocm-api/sdk changes to support SpotMarketOptions for ROSA HCP
