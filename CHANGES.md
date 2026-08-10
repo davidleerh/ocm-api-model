@@ -2,6 +2,10 @@
 
 This document describes the relevant changes between releases of the API model.
 
+## 0.0.464 Aug 10 2026
+- feat: aro-hcp: allow providing CS Provision Shard ID during cluster creation
+- feat: aro-hcp: remove provisionshard reference in cluster type
+
 ## 0.0.463 Aug 05 2026
 - ROSAENG-61162 | feat: API changes for BYO firewall workflow for OSD-GCP
 
